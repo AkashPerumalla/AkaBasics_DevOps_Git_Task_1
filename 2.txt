@@ -1,2 +1,10 @@
 modification 1 in 2.txt
+<<<<<<< HEAD
 modification 4 in 2.txt i master branch 
+=======
+<<<<<<< HEAD
+modification 3 in 2.txt in second branch
+=======
+modification 2 in 2.txt in first branch
+>>>>>>> first
+>>>>>>> second
