@@ -1,2 +1,6 @@
 modification 1 in 3.txt
+<<<<<<< HEAD
 modification 3 in 3.txt in second branch
+=======
+modification 2 in 3.txt in first branch
+>>>>>>> first
